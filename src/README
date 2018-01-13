@@ -1,3 +1,4 @@
 使い方
 1.data_setフォルダのupdated_train.csv.zipを解凍する
 2.01_wrangling_train_data.ipynbを実行するとupdated_train1.csvファイルがdatasetフォルダに作成される
+3.02_learning_xxxを実行して学習
