@@ -1,9 +1,0 @@
-01_dataset_xxxでinputデータを加工
-02_merge_datasetで01_datasetで作成したデータセットをマージしてtrain_data.csvを作成
-03_wrangling_train_dataでtrain_data.csvを加工。--> train_data1.csvを作成。
-04_dataset_submissionでtrain_data1.csvと同じ形式のデータセットpre_submission.csvを作成
-05_learning_xxxで学習-->モデルをpickleで吐き出す
-06_predictで予測
-
-*inputのcsvファイルはzipされているので、実行する前に解凍する必要あり
-*pickleファイルもうまくuploadされなかったので、05_learning_xxxを実行する必要あり
