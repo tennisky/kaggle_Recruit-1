@@ -1,4 +1,5 @@
 使い方
-1.data_setフォルダのupdated_train.csv.zipを解凍する
-2.01_wrangling_updated_dataを実行するとupdated_train1.csvファイルがdatasetフォルダに作成される
-3.02_learning_xxxを実行して学習
+1.data_setフォルダのupdated_train.csv.zip, updated_test.csv.zipを解凍する
+2.01_wrangling_updated_dataを実行するとupdated_train1.csv,updated_test1.csvがdatasetフォルダに作成される
+3.02_learning_xxxを実行して学習.modelフォルダにpickle化されたモデルが保存される.
+4.03_predictを実行して予測.datasetにsubmissionファイルが作成される.
