@@ -2,3 +2,4 @@ dataset：プログラムを実行して出力したデータファイルを保�
 input：オリジナルデータの保管場所
 model:作成したモデルをpickle化して保管する場所
 src：ソースコードが入っているフォルダ
+submission:kaggle提出用CSVファイルを保管する場所
